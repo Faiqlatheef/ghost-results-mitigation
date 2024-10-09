@@ -1,0 +1,8 @@
+speechrecognition
+pydub
+noisereduce
+numpy
+scipy
+torch
+transformers
+librosa
